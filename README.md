@@ -1,2 +1,1 @@
-# hook-public-docs
-Documentation for the Hook project
+# Documentación para la plataforma de OptaCheck
