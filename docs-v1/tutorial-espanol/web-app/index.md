@@ -12,6 +12,8 @@ Elije entre las siguientes opciones para entrar al tutorial:
 
 > En el tutorial [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
 
+Screenshots:
+![enter image description here](s3://hook-docs/images/collage1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgzOTQyMzBdfQ==
+eyJoaXN0b3J5IjpbLTU0ODg2NTYxOSwtMTUxODM5NDIzMF19
 -->
