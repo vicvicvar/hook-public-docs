@@ -16,6 +16,11 @@ Por ejemplo, un motorista o repartidor no debe de poder eliminar tareas que se l
 Descubre mas en el siguiente video! 
 
 > Siguiente [Escritorios](https://stackedit.io/).
+
+Screenshots: 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzMTkzMzYsMTMzMjk5NDkwOF19
+eyJoaXN0b3J5IjpbNDgzNzMwMjQ5LC0xNTI5MzE5MzM2LDEzMz
+I5OTQ5MDhdfQ==
 -->
