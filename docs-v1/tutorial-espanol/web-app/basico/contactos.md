@@ -7,7 +7,7 @@ Desde esta ventana también podrás:
 - Invitar, editar o remover contactos del escritorio 
 - Definir permisos y equipos al que pertenecen 
 - Cambiar contrasena de ingreso
-- Exportar esta informacion a un archivo Excel o CSV
+- Exportar/Importar esta información a un archivo Excel o CSV
 
 Poder asignar permisos es util para delimitar la información que el usuario puede editar y visualizar. 
 
@@ -21,6 +21,6 @@ Screenshots:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNzMwMjQ5LC0xNTI5MzE5MzM2LDEzMz
-I5OTQ5MDhdfQ==
+eyJoaXN0b3J5IjpbMTU4OTA3NjY2Miw0ODM3MzAyNDksLTE1Mj
+kzMTkzMzYsMTMzMjk5NDkwOF19
 -->
