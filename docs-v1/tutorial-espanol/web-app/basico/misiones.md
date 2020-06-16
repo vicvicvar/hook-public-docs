@@ -14,7 +14,7 @@ Proveemos herramientas para poder generar reportes de las tareas, carga de Misio
 
 Descubre mas en el siguiente video! 
 
-> Siguiente [Escritorios](https://stackedit.io/).
+> Siguiente [Notas](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDU4NzUwMl19
+eyJoaXN0b3J5IjpbLTk2NjI1NjI5OSwtNTU0NTg3NTAyXX0=
 -->
