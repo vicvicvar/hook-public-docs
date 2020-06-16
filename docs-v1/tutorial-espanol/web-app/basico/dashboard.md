@@ -11,6 +11,12 @@ Desde el Dashboard de Optacheck obtén información resumida de todo tu equipo d
 Descubre mas en el siguiente video! 
 
 > Siguiente [Escritorios](/v1/web-app/basico/escritorios.html).
+
+Screenshots: 
+![Dasboard1](https://hook-docs.s3.amazonaws.com/images/dashboard1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNzI0MjY3LC0xMjY0OTIxNzU0XX0=
+eyJoaXN0b3J5IjpbMTAzMjkyNTA1OSw0ODA3MjQyNjcsLTEyNj
+Q5MjE3NTRdfQ==
 -->
