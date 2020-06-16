@@ -8,8 +8,7 @@ Campos que podrían contar este formulario: Fotos del producto entregado, ubicac
 
 Descubre mas en el siguiente video! 
 
-> Siguiente [Misiones](/v1/web-app/basico/escritorios.html).
+> Siguiente [Misiones](/v1/web-app/basico/misiones.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ4NTQyMzksLTEzODY3NTY4ODddfQ
-==
+eyJoaXN0b3J5IjpbODU3NjkzMDQsLTEzODY3NTY4ODddfQ==
 -->
