@@ -1,7 +1,8 @@
+# Notas
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Siguiente [Tutorial Control](/v1/web-app/basico/notas.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQ3OTc0Mjc0N119
 -->
