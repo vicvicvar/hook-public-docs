@@ -10,7 +10,7 @@ Desde el Dashboard de Optacheck obtén información resumida de todo tu equipo d
 
 Descubre mas en el siguiente video! 
 
-> Siguiente [Escritorios](https://stackedit.io/).
+> Siguiente [Escritorios](/v1/web-app/basico/escritorios.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ5MjE3NTRdfQ==
+eyJoaXN0b3J5IjpbNDgwNzI0MjY3LC0xMjY0OTIxNzU0XX0=
 -->
