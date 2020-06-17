@@ -13,6 +13,9 @@ Elije entre las siguientes opciones para entrar al tutorial:
 
 > En el tutorial [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
 
+> O regresa al [Inicio](https://stackedit.io/) mostramos el uso del API e implementacion. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDgyMzgyNywtMTUxODM5NDIzMF19
+eyJoaXN0b3J5IjpbMTQ1OTE0ODYzOCwxMzUwODIzODI3LC0xNT
+E4Mzk0MjMwXX0=
 -->
