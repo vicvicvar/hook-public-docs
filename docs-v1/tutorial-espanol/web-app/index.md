@@ -11,11 +11,9 @@ Elije entre las siguientes opciones para entrar al tutorial:
 
 > En el tutorial [Control](https://stackedit.io/) exploramos Geocercas y Cumplimientos 
 
-> En el tutorial [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
-
 > O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTkxMzMzOCwxMzUwODIzODI3LC0xNT
+eyJoaXN0b3J5IjpbMTcxNDk2MzEwNSwxMzUwODIzODI3LC0xNT
 E4Mzk0MjMwXX0=
 -->
