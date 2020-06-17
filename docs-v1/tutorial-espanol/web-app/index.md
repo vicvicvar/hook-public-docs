@@ -13,9 +13,9 @@ Elije entre las siguientes opciones para entrar al tutorial:
 
 > En el tutorial [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
 
-> O regresa al [Inicio](https://stackedit.io/) mostramos el uso del API e implementacion. 
+> O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTE0ODYzOCwxMzUwODIzODI3LC0xNT
+eyJoaXN0b3J5IjpbMTc2NTkxMzMzOCwxMzUwODIzODI3LC0xNT
 E4Mzk0MjMwXX0=
 -->
