@@ -3,6 +3,7 @@
 
 La interfaz Web brinda visibilidad a todas las funcionalidades de Optacheck. 
 
+![enter image description here](https://hook-docs.s3.amazonaws.com/images/collage1.png)
 Aprende el uso y manejo de Optacheck Web APP en menos de 5 minutos. 
 
 Elije entre las siguientes opciones para entrar al tutorial:
@@ -13,5 +14,5 @@ Elije entre las siguientes opciones para entrar al tutorial:
 > En el tutorial [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgzOTQyMzBdfQ==
+eyJoaXN0b3J5IjpbMTM1MDgyMzgyNywtMTUxODM5NDIzMF19
 -->

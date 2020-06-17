@@ -1,19 +1,26 @@
 # Contactos 
 
-Desde la pestaña de contactos ten una vista rápida de todo tu personal e información detallada de sus acciones como actividades, estados y ubicaciones. Desde esta ventana tambien podras
+Desde la pestaña de contactos ten una vista rápida de todo tu personal e información detallada de sus acciones como actividades, estados y ubicaciones. 
+
+Desde esta ventana también podrás:
 
 - Invitar, editar o remover contactos del escritorio 
 - Definir permisos y equipos al que pertenecen 
 - Cambiar contrasena de ingreso
-- Exportar esta informacion a un archivo Excel o CSV
+- Exportar/Importar esta información a un archivo Excel o CSV
 
-Poder asignar permisos es util para delimitar la informacion que el usuario puede editar y visualizar. 
+Poder asignar permisos es util para delimitar la información que el usuario puede editar y visualizar. 
 
-Por ejemplo, un motorista o repartidor no debe de poder eliminar tareas que se le fueron asignadas a el o a sus colegas. Asi mismo, al cliente que se le comparte el mapa de ruta en vivo no debe visualizar taras pendientes del motorista o repartidor
+Por ejemplo, un motorista o repartidor no debe de poder eliminar tareas que se le fueron asignadas a el o a sus colegas. Asi mismo, al cliente que se le comparte el mapa de ruta en vivo no debe visualizar tareas pendientes del motorista o repartidor
 
 Descubre mas en el siguiente video! 
 
-> Siguiente [Escritorios](https://stackedit.io/).
+> Siguiente [Formularios](/v1/web-app/basico/formularios.html).
+
+Screenshots: 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTExNDIxODNdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDc2OTUxNywxNTg5MDc2NjYyLDQ4Mz
+czMDI0OSwtMTUyOTMxOTMzNiwxMzMyOTk0OTA4XX0=
 -->
