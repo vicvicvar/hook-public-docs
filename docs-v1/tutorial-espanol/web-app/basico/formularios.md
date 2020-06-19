@@ -7,8 +7,10 @@ Con los formularios, añade funcionalidades de cuestionario a las misiones. Preg
 Campos que podrían contar este formulario: Fotos del producto entregado, ubicación de entrega, próxima fecha de compra, firma de recibido, entre todos. 
 
 Descubre mas en el siguiente video! 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8d6kas-Epwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Siguiente [Misiones](/v1/web-app/basico/misiones.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NjkzMDQsLTEzODY3NTY4ODddfQ==
+eyJoaXN0b3J5IjpbLTE3MjE5MjQxMCw4NTc2OTMwNCwtMTM4Nj
+c1Njg4N119
 -->
