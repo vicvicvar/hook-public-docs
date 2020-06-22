@@ -8,12 +8,12 @@ Desde el Dashboard de Optacheck obtén información resumida de todo tu equipo d
 - Visitas realizadas
 - Resumen de contactos activos
 
-Descubre mas en el siguiente video!
+Descubre mas en el siguiente vide!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BCJ2c7hJB_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Siguiente [Contactos](/v1/web-app/basico/contactos.html).
 
-> O regresa a [Escritorios](/v1/web-app/basico/escritorios.html)
+> O regresa a [ctos](/v1/web-app/basico/coos.html)
 
 Screenshots: 
 ![Dasboard1](https://hook-docs.s3.amazonaws.com/images/dashboard1.png)
@@ -22,6 +22,7 @@ Screenshots:
 
 ![Dashboard3](https://hook-docs.s3.amazonaws.com/images/dashboard3.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDE1OTgsLTEwMDAyMDYwMzQsLTIwNj
-A5NDk1LDQ4MDcyNDI2NywtMTI2NDkyMTc1NF19
+eyJoaXN0b3J5IjpbMjU1MTA3NzE2LDM4NzQxNTk4LC0xMDAwMj
+A2MDM0LC0yMDYwOTQ5NSw0ODA3MjQyNjcsLTEyNjQ5MjE3NTRd
+fQ==
 -->
