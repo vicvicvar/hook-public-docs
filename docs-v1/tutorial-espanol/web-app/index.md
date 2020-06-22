@@ -11,11 +11,11 @@ Elije entre las siguientes opciones para entrar al tutorial:
 
 > En el tutorial [Control](https://stackedit.io/) exploramos Geocercas y Cumplimientos 
 
- > En el tutorial [Especifo](https://stackedit.io/) exploramos Geocercas y Cumplimientos 
+ > En el tutorial [Especifo](https://stackedit.io/) funcionalidades dedicadas como carga masiva de misiones y reporteria son explicadas
 
 > O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgyNTYwNDAsMTM1MDgyMzgyNywtMT
-UxODM5NDIzMF19
+eyJoaXN0b3J5IjpbLTE2ODgzMzE5MCwxMzUwODIzODI3LC0xNT
+E4Mzk0MjMwXX0=
 -->
