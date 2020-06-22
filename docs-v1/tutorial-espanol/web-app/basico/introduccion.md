@@ -10,6 +10,9 @@ Explora la herramienta con las funcionalidades básicas:
 4. [Formularios](/v1/web-app/basico/formularios.html)
 5. [Misiones](/v1/web-app/basico/misiones.html)
 6. [Notas](/v1/web-app/basico/notas.html)
+
+> O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTQyMzE1MiwxMjM4MzI2NTk4XX0=
+eyJoaXN0b3J5IjpbMTczOTIzNDk3NywyMDAxNDIzMTUyLDEyMz
+gzMjY1OThdfQ==
 -->
