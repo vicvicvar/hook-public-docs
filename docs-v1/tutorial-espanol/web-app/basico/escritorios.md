@@ -9,8 +9,8 @@ Por ejemplo, para departamento de ventas no es necesario consultar la informaciÃ
 
 Cuando la empresa cuenta con presencia en varias sedes o es franquiciada en distintas lugares, el uso de escritorios es util para diferenciar las actividades de cada entidad y trabajar con autonomÃ­a.
 
-> Siguiente [DashboardContactos](/v1/web-app/basico/dashboardcontactos.html).
+> Siguiente [Dashboard](/v1/web-app/basico/dashboardcontactos.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNzE1OTc0LC0zNDA0Njg5OTIsNjUzNz
-g5NDk2LDE0MTU1MjAwMjBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTA2MzMyOCw0ODM3MTU5NzQsLTM0MD
+Q2ODk5Miw2NTM3ODk0OTYsMTQxNTUyMDAyMF19
 -->
