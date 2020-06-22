@@ -12,8 +12,10 @@ Con las notas, tus personal captura y comparte eventos importantes del viaje o m
 
 > Siguiente [Tutorial Control](/v1/web-app/basico/notas.html).
 
-> O regresa a [Tutorial Basico](/v1/web-app/basico/notas.html).
+> O regresa a [Misiones](/v1/web-app/basico/misiones.html)
+
+> O dirigete al [Tutorial Basico](/v1/web-app/basico/notas.html). (Tutorial previamente visto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTc2MDc0OSwyMDQzMTYzNTk4LC0yMD
-M5MzQ1NzU1LDE0Nzk3NDI3NDddfQ==
+eyJoaXN0b3J5IjpbLTE4MTUwNzUwMTYsMTQ1OTc2MDc0OSwyMD
+QzMTYzNTk4LC0yMDM5MzQ1NzU1LDE0Nzk3NDI3NDddfQ==
 -->
