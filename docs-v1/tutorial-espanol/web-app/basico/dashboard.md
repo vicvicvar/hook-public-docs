@@ -13,7 +13,7 @@ Descubre mas en el siguiente vide!
 
 > Siguiente [Contactos](/v1/web-app/basico/contactos.html).
 
-> O regresa a [ctos](/v1/web-app/basico/coos.html)
+> O regresa a [Escritorios](/v1/web-app/basico/escritorios.html)
 
 Screenshots: 
 ![Dasboard1](https://hook-docs.s3.amazonaws.com/images/dashboard1.png)
@@ -22,7 +22,7 @@ Screenshots:
 
 ![Dashboard3](https://hook-docs.s3.amazonaws.com/images/dashboard3.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MTA3NzE2LDM4NzQxNTk4LC0xMDAwMj
-A2MDM0LC0yMDYwOTQ5NSw0ODA3MjQyNjcsLTEyNjQ5MjE3NTRd
-fQ==
+eyJoaXN0b3J5IjpbNDE1MzY2NzgzLDI1NTEwNzcxNiwzODc0MT
+U5OCwtMTAwMDIwNjAzNCwtMjA2MDk0OTUsNDgwNzI0MjY3LC0x
+MjY0OTIxNzU0XX0=
 -->
