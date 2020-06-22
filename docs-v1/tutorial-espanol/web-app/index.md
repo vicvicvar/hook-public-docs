@@ -9,13 +9,13 @@ Aprende el uso y manejo de Optacheck Web APP en menos de 5 minutos.
 Elije entre las siguientes opciones para entrar al tutorial:
 > En el tutorial [Basico](/v1/web-app/basico/introduccion.html) te damos la introduccion a la herramienta y las funcionalidades mas importantes. 
 
-> En el tutorial [Control](https://stackedit.io/) exploramos Geocercas y Cumplimientos 
+>  e al [o](https://stace.o/) ra Geocercas y Cumplimientos 
 
  > En el tutorial [Especifo](https://stackedit.io/) funcionalidades dedicadas como carga masiva de misiones y reporteria son explicadas
 
 > O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgzMzE5MCwxMzUwODIzODI3LC0xNT
-E4Mzk0MjMwXX0=
+eyJoaXN0b3J5IjpbLTk1NzQ0MTg3OCwtMTY4ODMzMTkwLDEzNT
+A4MjM4MjcsLTE1MTgzOTQyMzBdfQ==
 -->
