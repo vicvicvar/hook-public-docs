@@ -11,8 +11,8 @@ Descubre mas en el siguiente video!
 
 > Siguiente [Misiones](/v1/web-app/basico/misiones.html).
 
-> O regresa a [Contactos](/v1/web-app/basico/dashboard.html)
+> O regresa a [Contactos](/v1/web-app/basico/contactos.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDIxNDk1OSwtMTcyMTkyNDEwLDg1Nz
+eyJoaXN0b3J5IjpbMTczMDA5MTA3MSwtMTcyMTkyNDEwLDg1Nz
 Y5MzA0LC0xMzg2NzU2ODg3XX0=
 -->
