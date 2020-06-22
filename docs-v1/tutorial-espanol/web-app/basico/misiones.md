@@ -14,7 +14,9 @@ Proveemos herramientas para poder generar reportes de las tareas, carga de misio
 
 Descubre mas en el siguiente video! 
 
+
 > Siguiente [Notas](/v1/web-app/basico/notas.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3OTM4Mjc3LC01NTQ1ODc1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjg1NzM5NjEsNTI3OTM4Mjc3LC01NT
+Q1ODc1MDJdfQ==
 -->
