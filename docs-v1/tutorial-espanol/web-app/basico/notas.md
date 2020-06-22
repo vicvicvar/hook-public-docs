@@ -5,7 +5,7 @@ Con las notas, tus personal captura y comparte eventos importantes del viaje o m
 Eventos como:
 
  - Trafico
- - 
+ - Proceso de Carga/Descarga en retraso 
  - Eventualidades 
  - Clima
  - Neumático desinflado/pinchado
@@ -15,5 +15,5 @@ Eventos como:
 
 > O regresa a [Tutorial Basico](/v1/web-app/basico/notas.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMwMzg0MywxNDc5NzQyNzQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMzkzNDU3NTUsMTQ3OTc0Mjc0N119
 -->
