@@ -17,7 +17,9 @@ Descubre mas en el siguiente video!
 
 
 > Siguiente [Notas](/v1/web-app/basico/notas.html).
+
+> O regresa a [Formularios](/v1/web-app/basico/formularios.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDMyNzI3OSwtMTAyODU3Mzk2MSw1Mj
+eyJoaXN0b3J5IjpbMTAzNjIwNTY0NiwtMTAyODU3Mzk2MSw1Mj
 c5MzgyNzcsLTU1NDU4NzUwMl19
 -->
