@@ -18,10 +18,11 @@ Descubre mas en el siguiente video!
 
 > Siguiente [Formularios](/v1/web-app/basico/formularios.html).
 
+> O regresa a [Dashboard](/v1/web-app/basico/dashboard.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ0MDEyNzUsLTQ5NDc2OTUxNywxNT
-g5MDc2NjYyLDQ4MzczMDI0OSwtMTUyOTMxOTMzNiwxMzMyOTk0
-OTA4XX0=
+eyJoaXN0b3J5IjpbLTIzNDc2MzgzLC0xMzE0NDAxMjc1LC00OT
+Q3Njk1MTcsMTU4OTA3NjY2Miw0ODM3MzAyNDksLTE1MjkzMTkz
+MzYsMTMzMjk5NDkwOF19
 -->
