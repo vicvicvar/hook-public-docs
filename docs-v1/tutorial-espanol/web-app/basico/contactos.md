@@ -20,9 +20,8 @@ Descubre mas en el siguiente video!
 
 > O regresa a [Dashboard](/v1/web-app/basico/dashboard.html)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDc2MzgzLC0xMzE0NDAxMjc1LC00OT
-Q3Njk1MTcsMTU4OTA3NjY2Miw0ODM3MzAyNDksLTE1MjkzMTkz
-MzYsMTMzMjk5NDkwOF19
+eyJoaXN0b3J5IjpbLTIxMjUwNDMyMTMsLTIzNDc2MzgzLC0xMz
+E0NDAxMjc1LC00OTQ3Njk1MTcsMTU4OTA3NjY2Miw0ODM3MzAy
+NDksLTE1MjkzMTkzMzYsMTMzMjk5NDkwOF19
 -->
