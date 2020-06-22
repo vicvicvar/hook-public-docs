@@ -13,10 +13,11 @@ Define con ellas tareas a realizarse y especifica/consulta parametros como:
 Proveemos herramientas para poder generar reportes de las tareas, carga de misiones masiva (Formato CSV) y filtros avanzados para la busqueda de Misiones.  
 
 Descubre mas en el siguiente video! 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYyx0OXLZWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 > Siguiente [Notas](/v1/web-app/basico/notas.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg1NzM5NjEsNTI3OTM4Mjc3LC01NT
-Q1ODc1MDJdfQ==
+eyJoaXN0b3J5IjpbMTc0MDMyNzI3OSwtMTAyODU3Mzk2MSw1Mj
+c5MzgyNzcsLTU1NDU4NzUwMl19
 -->
