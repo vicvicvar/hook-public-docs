@@ -10,7 +10,9 @@ Por ejemplo, para departamento de ventas no es necesario consultar la informaciÃ
 Cuando la empresa cuenta con presencia en varias sedes o es franquiciada en distintas lugares, el uso de escritorios es util para diferenciar las actividades de cada entidad y trabajar con autonomÃ­a.
 
 > Siguiente [Dashboard](/v1/web-app/basico/dashboard.html)
+
+> O regresa al [Inicio](https://docs.optacheck.com/v1/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NTQ5MjkwLDQ4MzcxNTk3NCwtMzQwND
-Y4OTkyLDY1Mzc4OTQ5NiwxNDE1NTIwMDIwXX0=
+eyJoaXN0b3J5IjpbLTEwNDU1NjA3NTUsNDgzNzE1OTc0LC0zND
+A0Njg5OTIsNjUzNzg5NDk2LDE0MTU1MjAwMjBdfQ==
 -->
