@@ -14,8 +14,9 @@ Con las notas, tus personal captura y comparte eventos importantes del viaje o m
 
 > O regresa a [Misiones](/v1/web-app/basico/misiones.html)
 
-> O dirigete al [Tutorial Basico](/v1/web-app/basico/notas.html). (Tutorial previamente visto)
+> O dirigete al [Tutorial Basico](https://docs.optacheck.com/v1/). (Tutorial previamente visto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUwNzUwMTYsMTQ1OTc2MDc0OSwyMD
-QzMTYzNTk4LC0yMDM5MzQ1NzU1LDE0Nzk3NDI3NDddfQ==
+eyJoaXN0b3J5IjpbMTc0MjUyMTI5OCwtMTgxNTA3NTAxNiwxND
+U5NzYwNzQ5LDIwNDMxNjM1OTgsLTIwMzkzNDU3NTUsMTQ3OTc0
+Mjc0N119
 -->
