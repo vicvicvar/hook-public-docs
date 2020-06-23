@@ -4,7 +4,7 @@
 La interfaz Web brinda visibilidad a todas las funcionalidades de Optacheck. 
 
 ![enter image description here](https://hook-docs.s3.amazonaws.com/images/collage1.png)
-Aprende el uso y manejo de Optacheck Web APP en menos de 5 minutos. 
+Aprende el uso y manejo de Optacheck Web-APP con estos sencillos tutoriales demostrativos. 
 
 Elije entre las siguientes opciones (recomendado segun el orden) para iniciar un tutorial:
  1. En el tutorial [Basico](/v1/web-app/basico/introduccion.html) te damos la introduccion a la herramienta y las funcionalidades mas importantes. 
@@ -16,6 +16,7 @@ Elije entre las siguientes opciones (recomendado segun el orden) para iniciar un
 4. O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4ODY5MzYyLC05NTc0NDE4NzgsLTE2OD
-gzMzE5MCwxMzUwODIzODI3LC0xNTE4Mzk0MjMwXX0=
+eyJoaXN0b3J5IjpbLTgxNjgyNjM0MywyNTg4NjkzNjIsLTk1Nz
+Q0MTg3OCwtMTY4ODMzMTkwLDEzNTA4MjM4MjcsLTE1MTgzOTQy
+MzBdfQ==
 -->
