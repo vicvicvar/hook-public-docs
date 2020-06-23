@@ -2,21 +2,25 @@
 
 Nuestra aplicacion es el complemento al personal de campo con la cual deseamos comunicarnos en tiempo real.
 
-Desde el APP, los usuarios podran 
+Desde el APP, los usuarios podran :
 
  - Completar, crear, recibir y actualizar las tareas asignadas
  - Crear Notas y Visitas
  - Trabajar en diferentes escritorios
- - Actualizar el estado de trajo
+ - Actualizar el estado de trabajo
+ - Trabajo Offline sin Wifi o Datos del telefono
 
- 
+ Explora la herramienta con las funcionalidades básicas:
 
-![enter image description here](https://hook-docs.s3.amazonaws.com/images/collage1.png)
-Aprende el uso y manejo de Optacheck Web APP en menos de 5 minutos. 
+1. [Login e Interfaz](/v1/app-movil/login_interfaz.html)
+2. [Dashboard](/v1/web-app/basico/dashboard.html)
+3. [Contactos](/v1/web-app/basico/contactos.html)
+4. [Formularios](/v1/web-app/basico/formularios.html)
+5. [Misiones](/v1/web-app/basico/misiones.html)
+6. [Notas](/v1/web-app/basico/notas.html)
 
-Elije entre las siguientes opciones (recomendado segun el orden) para iniciar un tutorial:
- 1. En el tutorial [Basico](/v1/web-app/basico/introduccion.html) te damos la introduccion a la herramienta y las funcionalidades mas importantes. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTE1MDM1MiwtMTUyODAzMjg4OCwxNT
-A1Njc2Mjc1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzNzk0NTY4NTQsLTE1MjgwMzI4ODgsMT
+UwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
 -->
