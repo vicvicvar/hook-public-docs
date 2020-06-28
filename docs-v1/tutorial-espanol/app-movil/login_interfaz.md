@@ -7,7 +7,7 @@ El APP cuenta con 4 pestanas principales ubicadas en la parte inferior de la pan
  - **Misiones**, visualiza o crea tareas
  - **Notas**, captura notas de viaje y/o eventualidades. Complementa tus notas con texto e imagenes
  - **Visitas**, registra encuentros no programados a clientes o proveedores. Complementa tus Visitas con texto e imagenes
- - **Estado**, Visualiza el estado general de tus tareas 
+ - **Estado**, Visualiza el estado general de tus tareas y controla 
 
 Explora la interfaz del APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejHbzX6i5tQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,5 +16,5 @@ Explora la interfaz del APP en el siguiente video!
 
 > O regresa al menu [Principal](/v1/app-movil/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NzE4NjU5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjQwMDYzMDM0LDczMDk5ODExNl19
 -->
