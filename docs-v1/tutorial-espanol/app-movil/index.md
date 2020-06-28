@@ -19,19 +19,19 @@ Los **usuarios** del APP podran :
 
  Explora la herramienta con las funcionalidades básicas:
 
-1. [Login e Interfaz](/v1/app-movil/login_interfaz.html)
-2. [Sincronizacion](/v1/app-movil/basico/dashboard.html)
-3. [Misiones](/v1/web-app/basico/contactos.html)
-4. [Crear una mision](/v1/web-app/basico/formularios.html)
-5. [Notas y Visitas](/v1/web-app/basico/misiones.html)
-6. [Estado y Escritorios](/v1/web-app/basico/notas.html)
+1. [Login e Interfaz](/v1/app_movil/login_interfaz.html)
+2. [Sincronizacion](/v1/app_movil/sync.html)
+3. [Misiones](/v1/app_movil/misiones.html)
+4. [Crear una Mision](/v1/app_movil.html)
+5. [Notas y Visitas](/v1/web_app/notas_visitas.html)
+6. [Estado y Escritorios](/v1/web-app/estado_escritorios.html)
 
 > O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir la documentacion **Web-App** o nuestra **App-movil**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDM0NzYzNywtNTQ1Mjc2Mjc1LDkyNj
-k5NjgxMiwtMTUyODAzMjg4OCwxNTA1Njc2Mjc1LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE5NzI4NTQ5MTcsLTU0NTI3NjI3NSw5Mj
+Y5OTY4MTIsLTE1MjgwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgx
+MTZdfQ==
 -->
