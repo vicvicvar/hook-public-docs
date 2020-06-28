@@ -1,6 +1,6 @@
 # App-Movil
 
-Nuestra aplicacion es  la herramienta que nuestroel complemento al personal de campo con la cual deseamos comunicarnos en tiempo real.
+La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado. 
 
 Desde el APP, los usuarios podran :
 
@@ -21,6 +21,6 @@ Desde el APP, los usuarios podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzU5MTM4Niw5MjY5OTY4MTIsLTE1Mj
-gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI4NDgwNzAyLDkyNjk5NjgxMiwtMTUyOD
+AzMjg4OCwxNTA1Njc2Mjc1LDczMDk5ODExNl19
 -->
