@@ -1,6 +1,6 @@
 # App-Movil
 
-La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado. 
+La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado de equipo. 
 
 Desde el APP, los usuarios podran :
 
@@ -9,6 +9,7 @@ Desde el APP, los usuarios podran :
  - Trabajar en diferentes escritorios
  - Actualizar el estado de trabajo
  - Trabajo Offline sin Wifi o Datos del telefono
+ - Compartir constantemente la ubicacion (Usuario puede decidir 
 
  Explora la herramienta con las funcionalidades básicas:
 
@@ -21,6 +22,6 @@ Desde el APP, los usuarios podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDgwNzAyLDkyNjk5NjgxMiwtMTUyOD
-AzMjg4OCwxNTA1Njc2Mjc1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA1NzI4MDAwMyw5MjY5OTY4MTIsLTE1Mj
+gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
 -->
