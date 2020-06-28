@@ -24,7 +24,7 @@ Encargado de equipo ->> Optacheck Web: Consulta a su motorista
 Elige entre las siguientes opciones para entrar al tutorial
 > Ingresa a [Web App](/v1/web-app/) Para información del uso de la plataforma web desde un explorador web (Chrome, Firefox, Opera, etc). 
 
-> Ingresa a [App movil](/v1/app-movil/) para información del uso de la aplicación iOS y Android
+> Ingresa a [App movil](/v1/app-movil/index.html) para información del uso de la aplicación iOS y Android
 
 > Ingresa a [FAQ](/v1/faq/) para resolución de dudas y problemas mas comunes 
 
@@ -34,6 +34,6 @@ Elige entre las siguientes opciones para entrar al tutorial
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjYwNjIxOSwzNzA0MzQ4NzcsLTEyMT
+eyJoaXN0b3J5IjpbLTY2NTM0Nzg2OCwzNzA0MzQ4NzcsLTEyMT
 c2ODA0NDYsLTIwNzAzNTQ2NzIsMTI2NDE1NTAzMV19
 -->
