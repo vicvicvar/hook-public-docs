@@ -1,6 +1,6 @@
 # App-Movil
 
-Nuestra aplicacion es el complemento al personal de campo con la cual deseamos comunicarnos en tiempo real.
+Nuestra aplicacion es  la herramienta que nuestroel complemento al personal de campo con la cual deseamos comunicarnos en tiempo real.
 
 Desde el APP, los usuarios podran :
 
@@ -21,6 +21,6 @@ Desde el APP, los usuarios podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2OTk2ODEyLC0xNTI4MDMyODg4LDE1MD
-U2NzYyNzUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQxMzU5MTM4Niw5MjY5OTY4MTIsLTE1Mj
+gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
 -->
