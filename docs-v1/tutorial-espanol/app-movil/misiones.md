@@ -1,6 +1,8 @@
 # Misiones
 
-Las Misiones son las tareas asignadas las cuales incluyen instrucciones adicionales como agregar fotos, ubicacion GPS, 
+Las Misiones son las tareas asignadas las cuales incluyen instrucciones adicionales como agregar fotos, ubicacion GPS, ingreso de texto, entre otras. 
+
+Las misiones pueden contar con parametros obligatorios los cuales se mostratan con un 
 
 Al presionar el boton de Sincronizacion se realizara:
 
@@ -17,5 +19,5 @@ Explora la sincronizacion desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODY0NzEzM119
+eyJoaXN0b3J5IjpbMzEzODQ5MzM4XX0=
 -->
