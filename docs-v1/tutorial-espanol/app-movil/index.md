@@ -2,8 +2,10 @@
 
 La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado de equipo. 
 
+Descarga el APP desde este [enlace](https://play.google.com/store/apps/details?id=com.optagonal.optacheck).
+
  - Llamaremos a **usuarios** a las personas que usaran el APP. 
- - Llamaremos a **encargados de equipo** a quienes asiganaran tareas y acciones a **usuarios**
+ - Llamaremos a **encargados de equipo** a quienes asignan tareas y acciones a **usuarios**
 
 
 Los **usuarios** del APP podran :
@@ -29,6 +31,6 @@ Los **usuarios** del APP podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEzNTAwNjQsOTI2OTk2ODEyLC0xNT
-I4MDMyODg4LDE1MDU2NzYyNzUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU0NTI3NjI3NSw5MjY5OTY4MTIsLTE1Mj
+gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
 -->
