@@ -8,8 +8,9 @@ sequenceDiagram
 Encargado ->> Optacheck Web: Organiza y asigna tareas
 Optacheck Web ->> Optacheck APP: App obtiene tareas asignadas
 Optacheck APP ->> Motorista: Descarga y sincroniza tareas
-Motorista ->> Optacheck APP: Completa las tareas asignadas 
-Motorista ->> Optacheck APP: Captura notas y visitas
+Motorista -->> Optacheck APP: Completa las tareas asignadas 
+Motorista -->> Optacheck APP: Captura notas y visitas
+
 Optacheck APP-->>Optacheck Web: Ubicacion y estado de tareas en tiempo real
 Optacheck APP-->>Optacheck Web: Alertas por Geocercas y Paradas no programadas.
 Encargado ->> Optacheck Web: Consulta a su motorista 
@@ -28,6 +29,6 @@ Elige entre las siguientes opciones para entrar al tutorial
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDk3MDk4MSwtMjA3MDM1NDY3MiwxMj
+eyJoaXN0b3J5IjpbLTc3NjY0NDY3NSwtMjA3MDM1NDY3MiwxMj
 Y0MTU1MDMxXX0=
 -->
