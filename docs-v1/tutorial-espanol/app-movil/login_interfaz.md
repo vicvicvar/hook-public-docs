@@ -4,9 +4,9 @@ El APP Optacheck es la interfaz para descargar y actualizar nuestras tareas.
 
 El APP cuenta con 4 pestanas principales ubicadas en la parte inferior de la pantalla:
 
- - Misiones, visualiza o crea las tareas
- - Notas
- - Visitas
+ - Misiones, visualiza o crea tareas
+ - Notas, captura notas de viaje y/o eventualidades. Complementa tus notas con texto e imagenes
+ - Visitas, registra encuentros no programados a cliente
  - Estado
 
 Explora la interfaz del APP en el siguiente video! 
@@ -16,5 +16,5 @@ Explora la interfaz del APP en el siguiente video!
 
 > O regresa al menu [Principal](/v1/app-movil/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzg1OTM4Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTk2NDkwOTQ3LDczMDk5ODExNl19
 -->
