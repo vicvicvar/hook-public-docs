@@ -5,7 +5,7 @@ En los siguientes links encuentra  guias rapidas del uso de diferentes funcional
 Un flujo ejemplo entre el usuario y personal es el siguiente:
 ```mermaid
 sequenceDiagram
-Encargado ->> Optacheck Web: Organiza y asigna tareas
+Encargado de equipo ->> Optacheck Web: Organiza y asigna tareas
 Optacheck Web ->> Optacheck APP: App obtiene tareas asignadas
 Optacheck APP ->> Motorista: Descarga y sincroniza tareas
 Motorista -->> Optacheck APP: Completa las tareas asignadas 
@@ -29,6 +29,6 @@ Elige entre las siguientes opciones para entrar al tutorial
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc2ODA0NDYsLTIwNzAzNTQ2NzIsMT
-I2NDE1NTAzMV19
+eyJoaXN0b3J5IjpbLTM0OTM2NTM0NCwtMTIxNzY4MDQ0NiwtMj
+A3MDM1NDY3MiwxMjY0MTU1MDMxXX0=
 -->
