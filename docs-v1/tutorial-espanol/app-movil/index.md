@@ -2,6 +2,8 @@
 
 La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado de equipo. 
 
+Llamaremos a **usuarios** a las personas que usaran el APP. 
+
 Los **usuarios** del APP podran :
 
  - Completar, crear, recibir y actualizar las tareas asignadas
@@ -20,11 +22,11 @@ Los **usuarios** del APP podran :
 5. [Notas y Visitas](/v1/web-app/basico/misiones.html)
 6. [Estado](/v1/web-app/basico/notas.html)
 
-> O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
+> O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir la documentacion **Web-App** o nuestra **App-movil**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE4NjE4ODEsOTI2OTk2ODEyLC0xNT
-I4MDMyODg4LDE1MDU2NzYyNzUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM3MTQ1ODU0Nyw5MjY5OTY4MTIsLTE1Mj
+gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
 -->
