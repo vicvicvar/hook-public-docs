@@ -22,7 +22,7 @@ Los **usuarios** del APP podran :
 1. [Login e Interfaz](/v1/app-movil/login_interfaz.html)
 2. [Sincronizacion](/v1/app-movil/sync.html)
 3. [Misiones](/v1/app-movil/misiones.html)
-4. [Crear una Mision](/v1/app-movil/crear.html)
+4. [Crear una Mision](/v1/app-movil/crear_mision.html)
 5. [Notas y Visitas](/v1/app-movil/notas_visitas.html)
 6. [Estado y Escritorios](/v1/app-movil/estado_escritorios.html)
 
@@ -31,7 +31,7 @@ Los **usuarios** del APP podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjgxODQwOSwtNzM2NzgzMDA3LC0xOT
+eyJoaXN0b3J5IjpbMTg5NTM0NjkxMSwtNzM2NzgzMDA3LC0xOT
 cyODU0OTE3LC01NDUyNzYyNzUsOTI2OTk2ODEyLC0xNTI4MDMy
 ODg4LDE1MDU2NzYyNzUsNzMwOTk4MTE2XX0=
 -->
