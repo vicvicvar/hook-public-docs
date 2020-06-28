@@ -1,6 +1,6 @@
 # Tutoriales Optacheck
 
-En los siguientes links encuentra paso a paso guias rapidas del uso de diferentes funcionalidades de Optacheck. 
+En los siguientes links encuentra  guias rapidas del uso de diferentes funcionalidades de Optacheck. 
 
 Un flujo ejemplo entre el usuario y personal es el siguiente:
 ```mermaid
@@ -29,6 +29,6 @@ Elige entre las siguientes opciones para entrar al tutorial
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjY0NDY3NSwtMjA3MDM1NDY3MiwxMj
-Y0MTU1MDMxXX0=
+eyJoaXN0b3J5IjpbLTEyMTc2ODA0NDYsLTIwNzAzNTQ2NzIsMT
+I2NDE1NTAzMV19
 -->
