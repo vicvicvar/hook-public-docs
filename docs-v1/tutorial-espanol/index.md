@@ -6,7 +6,7 @@ Un flujo ejemplo entre el usuario y personal es el siguiente:
 
  - Llamaremos a **usuarios** a las personas que usaran el APP. 
  - Llamaremos a **encargados de equipo** a quienes asignan tareas y acciones a **usuarios**
- - Optacheck Web es el portal donde el **encargado de equipo 
+ - Optacheck Web es el [Portal](https://optacheck.com/welcome/) donde el **encargado de equipo** localiza, asigna y visualiza tareas de su 
 
 ```mermaid
 sequenceDiagram
@@ -33,6 +33,6 @@ Elige entre las siguientes opciones para entrar al tutorial
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzgzODU4MiwtMTIxNzY4MDQ0NiwtMj
+eyJoaXN0b3J5IjpbLTkwNjk1NDUzOSwtMTIxNzY4MDQ0NiwtMj
 A3MDM1NDY3MiwxMjY0MTU1MDMxXX0=
 -->
