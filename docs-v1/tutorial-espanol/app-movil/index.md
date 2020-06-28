@@ -2,7 +2,9 @@
 
 La aplicacion Optacheck es el medio mediante nos comunicacamos con nuestro encargado de equipo. 
 
-Llamaremos a **usuarios** a las personas que usaran el APP. 
+ - Llamaremos a **usuarios** a las personas que usaran el APP. 
+ - Llamaremos a **encargados de equipo** a quienes asiganaran tareas y acciones a **usuarios**
+
 
 Los **usuarios** del APP podran :
 
@@ -27,6 +29,6 @@ Los **usuarios** del APP podran :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTQ1ODU0Nyw5MjY5OTY4MTIsLTE1Mj
-gwMzI4ODgsMTUwNTY3NjI3NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjEzNTAwNjQsOTI2OTk2ODEyLC0xNT
+I4MDMyODg4LDE1MDU2NzYyNzUsNzMwOTk4MTE2XX0=
 -->
