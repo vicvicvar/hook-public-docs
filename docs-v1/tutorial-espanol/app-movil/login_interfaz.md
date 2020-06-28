@@ -10,11 +10,12 @@ El APP cuenta con 4 pestanas principales ubicadas en la parte inferior de la pan
  - **Estado**, Visualiza tus tareas pendientes y completadas. Actualiza tu estado y comunica tu actividad 
 
 Explora la interfaz del APP en el siguiente video! 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ejHbzX6i5tQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DRY1-P9ar3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Siguiente [Sincronizacion](/v1/app-movil/sync.html)
 
 > O regresa al menu [Principal](/v1/app-movil/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTEwOTM0NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NTM1NDY5NCwtNjQ1MTA5MzQ1LDczMD
+k5ODExNl19
 -->
