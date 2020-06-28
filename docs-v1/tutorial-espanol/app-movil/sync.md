@@ -15,7 +15,7 @@ Explora la interfaz del APP en el siguiente video!
 
 > Siguiente [Misiones](/v1/app-movil/misiones.html)
 
-> O regresa a [Sincronizacion ](/v1/app-movil/sync.html)
+> O regresa a [Login e Interfaz](/v1/app-movil/login_interfaz.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTg2MDUwNl19
+eyJoaXN0b3J5IjpbODAxOTE0MDcyXX0=
 -->
