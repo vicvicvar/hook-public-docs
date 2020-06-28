@@ -13,10 +13,10 @@ Elije entre las siguientes opciones (recomendado segun el orden) para iniciar un
 
 3. En el tutorial [Especifo](https://stackedit.io/) , funcionalidades dedicadas como carga masiva de misiones y reporteria son demostradas
 
-4. O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
+4. O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir la documentacion **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjgyNjM0MywyNTg4NjkzNjIsLTk1Nz
+eyJoaXN0b3J5IjpbMTU4MDg1NTg2NSwyNTg4NjkzNjIsLTk1Nz
 Q0MTg3OCwtMTY4ODMzMTkwLDEzNTA4MjM4MjcsLTE1MTgzOTQy
 MzBdfQ==
 -->
