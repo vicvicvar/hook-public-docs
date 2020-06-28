@@ -24,16 +24,16 @@ Encargado de equipo ->> Optacheck Web: Consulta a su motorista
 Elige entre las siguientes opciones para entrar al tutorial
 > Ingresa a [Web App](/v1/web-app/) Para información del uso de la plataforma web desde un explorador web (Chrome, Firefox, Opera, etc). 
 
-> Ingresa a [App movil](https://stackedit.io/) para información del uso de la aplicación iOS y Android
+> Ingresa a [App movil](/v1/app-movil/) para información del uso de la aplicación iOS y Android
 
-> Ingresa a [FAQ](https://stackedit.io/) para resolución de dudas y problemas mas comunes 
+> Ingresa a [FAQ](/v1/faq/) para resolución de dudas y problemas mas comunes 
 
-> Ingresa a [Developer](https://stackedit.io/) mostramos el uso del API e implementacion. 
+> Ingresa a [Developer](/v1/developer/) mostramos el uso del API, documentacion e implementacion. 
 
 
 Si estas guías no resuelven tus dudas, escribenos a soporte@somosopta.com 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDM0ODc3LC0xMjE3NjgwNDQ2LC0yMD
-cwMzU0NjcyLDEyNjQxNTUwMzFdfQ==
+eyJoaXN0b3J5IjpbMjAxNjYwNjIxOSwzNzA0MzQ4NzcsLTEyMT
+c2ODA0NDYsLTIwNzAzNTQ2NzIsMTI2NDE1NTAzMV19
 -->
