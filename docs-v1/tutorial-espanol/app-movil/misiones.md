@@ -11,7 +11,7 @@ Al final de cada mision, se muestran las siguientes opciones para actualizar el 
  - **Cancelada**, Son misiones las cuales nos fueron indicadas abandonar y/o proceder alguna otra actividad mas importante.
  - **Fallo**, Las misiones marcadas con esta propiedad no pudieron ser terminadas por razones de fuerza mayor. Como por ejemplo un accidente, persona visitada no se encontraba, medio de transporte con desperfectos, etc. 
 
-Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmediatamente. Como por ejemplo al visitar a un cliente y se sol
+Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmediatamente. Como por ejemplo al visitar a un cliente y se solicita entregarle producto, si el cliente se encuentra disponible se llenara el formulario de entrega y se actualiza el estado de la tarea como **Completada**. Si el cliente no se encuentra disponible la marcaremos como **Fallo**
 
 Explora las Misiones desde el APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLTF__ua5go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,5 +21,5 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MzQyNzk0LC0xMTcwNTUxMDY4XX0=
+eyJoaXN0b3J5IjpbLTQ5MzUxNjIxNywtMTE3MDU1MTA2OF19
 -->
