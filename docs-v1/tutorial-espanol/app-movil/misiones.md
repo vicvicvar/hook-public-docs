@@ -21,13 +21,15 @@ Un flujo demo entre el cambio entre **Activas** a **Completadas**  es el siguien
 ```mermaid
 sequenceDiagram
 Activa->> Activa: He descargado mision y empiezo a trabajar en ella
-Activa->> Activa: Desde el APP Optacheck marco l
+Activa->> Activa: Desde el APP Optacheck marco la mision como Activa
 Activa->> Activa: Completo formularios con fotos, texto, notas, etc
 Activa->> Activa: Al ser activa, se registra el tiempo que demoro la mision
 Activa-->> Completada: Formulario se ha completado y mision ha sido completada
 ```
 
 Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmediatamente. Como por ejemplo al visitar a un cliente y se solicita entregarle producto, si el cliente se encuentra disponible se llenara el formulario de entrega y se actualiza el estado de la tarea como **Completada**. Si el cliente no se encuentra disponible la marcaremos como **Fallo** e indicaremos la razon por la cual fue la mision fallo. Si surgio una visita a un cliente con mayor urgencia marcaremos la mision como **Cancelada** e indicaremos la razon de su cancelacion. 
+
+
 
 Explora las Misiones desde el APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLTF__ua5go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,6 +39,6 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc4OTQ5MTMsLTUzNDM4NDMyNCwxNz
-AyMzMxOTYsLTQ5MzUxNjIxNywtMTE3MDU1MTA2OF19
+eyJoaXN0b3J5IjpbNjY2MzA0MDk1LC01MzQzODQzMjQsMTcwMj
+MzMTk2LC00OTM1MTYyMTcsLTExNzA1NTEwNjhdfQ==
 -->
