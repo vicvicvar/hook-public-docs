@@ -9,15 +9,11 @@ Con las **Notas**, captura y comparte eventos importantes incluyendo imagenes, t
  - Proceso de Carga/Descarga en retraso 
  - Desperfecto mecánico o Neumático desinflado/pinchado
 
-Con las **Visitas**, captura y comparte eventos importantes incluyendo imagenes y texto. Util para validar y dar veracidad a eventos como:
-
- - Trafico, Clima y Eventualidades 
- - Proceso de Carga/Descarga en retraso 
- - Desperfecto mecánico o Neumático desinflado/pinchado
+Con las **Visitas**, registra encuentros con clientes  oque no fueron programados incluyendo informacion importante como imagenes, texto y ubicacion GPS. 
 
 > Siguiente [Estados y Escritorios](/v1/app-movil/estado_escritorios.html)
 
 > O regresa a [Crear Mision](/v1/app-movil/misiones.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTE5OTkzNCw3MDcxMTA2MDddfQ==
+eyJoaXN0b3J5IjpbLTU2MzkzMzQ4LDcwNzExMDYwN119
 -->
