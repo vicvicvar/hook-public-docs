@@ -34,11 +34,11 @@ Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmed
 Explora las Misiones desde el APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLTF__ua5go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 > Siguiente [Crear una Mision](/v1/app-movil/crear_mision.html)
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MzA0MDk1LC01MzQzODQzMjQsMTcwMj
-MzMTk2LC00OTM1MTYyMTcsLTExNzA1NTEwNjhdfQ==
+eyJoaXN0b3J5IjpbLTk0MTIxMTA4Nyw2NjYzMDQwOTUsLTUzND
+M4NDMyNCwxNzAyMzMxOTYsLTQ5MzUxNjIxNywtMTE3MDU1MTA2
+OF19
 -->
