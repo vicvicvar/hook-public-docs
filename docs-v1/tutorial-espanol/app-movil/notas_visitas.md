@@ -9,11 +9,11 @@ Con las **Notas**, captura y comparte eventos importantes incluyendo imagenes, t
  - Proceso de Carga/Descarga en retraso 
  - Desperfecto mecánico o Neumático desinflado/pinchado
 
-Con las **Visitas**, registra encuentros con clientes  oque no fueron programados incluyendo informacion importante como imagenes, texto y ubicacion GPS. 
+Con las **Visitas**, registra encuentros con clientes existentes o potenciales que no fueron programados incluyendo informacion importante como imagenes, texto y ubicacion GPS. 
 
 > Siguiente [Estados y Escritorios](/v1/app-movil/estado_escritorios.html)
 
 > O regresa a [Crear Mision](/v1/app-movil/misiones.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzkzMzQ4LDcwNzExMDYwN119
+eyJoaXN0b3J5IjpbNjkyMTgwNDQ3LDcwNzExMDYwN119
 -->
