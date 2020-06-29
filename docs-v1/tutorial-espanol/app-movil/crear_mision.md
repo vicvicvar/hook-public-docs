@@ -4,6 +4,10 @@ Desde el APP Optacheck puedes crear misiones cuando tu **encargado de equipo** n
 
 Esta funcionalidad puede que no la tengas disponible debido a que tus permisos no permiten la creacion de misiones desde el APP. De ser el caso consulta con tu **encargado de equipo**
 
+Dependiendo de tus permisos podras asignarte la tarea a ti mismo o algun companero de trabajo
+
+Esta funcionalidad es util cuando aprovechamos vi
+
 Explora como Crear Misiones desde el APP Optacheck en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kam67xQG0q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -12,6 +16,6 @@ Explora como Crear Misiones desde el APP Optacheck en el siguiente video!
 
 > O regresa a [Misiones](/v1/app-movil/misiones.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzYxNTEwLDE4MDU0ODUxMjQsLTE4Mj
+eyJoaXN0b3J5IjpbNDEwNDg1NjU3LDE4MDU0ODUxMjQsLTE4Mj
 E5NDYyMzNdfQ==
 -->
