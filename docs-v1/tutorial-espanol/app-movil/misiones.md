@@ -2,14 +2,14 @@
 
 Las Misiones son las tareas asignadas las cuales incluyen instrucciones adicionales como agregar fotos, ubicacion GPS, ingreso de texto, entre otras. 
 
-Las misiones pueden contar con parametros obligatorios los cuales se mostratan con un asterisco rojo
+Las misiones pueden contar con parametros obligatorios los cuales se mostraran con un asterisco rojo
 
 Al final de cada mision, se muestran las siguientes opciones para actualizar el estado
 
- - **Activa**, Las misiones son marcadas como activas cuando la tarea tiene una duracion la cual deseamos medir y/o no es terminada inmediatamente
- - **Completada**, Las misiones que han llenado los formularios 
+ - **Activa**, Las misiones son marcadas como activas cuando la tarea tiene una duracion la cual deseamos medir y/o no es posible terminar inmediatamente. 
+ - **Completada**, Las misiones que han llenado los formularios e instrucciones solicitadas por el **encargado de eq
  - **Cancelada**, Son misiones las cuales nos fueron indicadas abandonar y/o proceder alguna otra actividad mas importante
- - **Fallo**, Las misiones marcadas con esta propiedad no pudieron ser terminadas por razones de fuerza mayor. Como por ejemplo algun accidente, 
+ - **Fallo**, Las misiones marcadas con esta propiedad no pudieron ser terminadas por razones de fuerza mayor. Como por ejemplo un accidente, persona visitada no se encontraba, medio de transporte con desperfectos, etc. 
 
 Explora las Misiones desde el APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLTF__ua5go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,6 +19,5 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg0NjMwOTcsLTExNzA1NTEwNjhdfQ
-==
+eyJoaXN0b3J5IjpbOTE1MTczMzI0LC0xMTcwNTUxMDY4XX0=
 -->
