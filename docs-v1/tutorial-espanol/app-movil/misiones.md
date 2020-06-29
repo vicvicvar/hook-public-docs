@@ -10,7 +10,7 @@ Al final de cada mision, se muestran las siguientes opciones para actualizar el 
  - **Completada**, Las misiones que han llenado los formularios e instrucciones solicitadas por el encargado de equipo seran marcadas como completadas
  - **Cancelada**, Son misiones las cuales nos fueron indicadas abandonar y/o proceder alguna otra actividad mas importante.
  - **Fallo**, Las misiones marcadas con esta propiedad no pudieron ser terminadas por razones de fuerza mayor. Como por ejemplo un accidente, persona visitada no se encontraba, medio de transporte con desperfectos, etc. 
-
+---
 El estado de misiones **Activas** es util cuando :
 
  1. Se desea registar el tiempo de duracion de una mision
@@ -26,7 +26,7 @@ Activa->> Activa: Completo formularios con fotos, texto, notas, etc
 Activa->> Activa: Al ser activa, se registra el tiempo que demoro la mision
 Activa-->> Completada: Formulario se ha completado y mision ha sido completada
 ```
-
+---
 Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmediatamente. Como por ejemplo al visitar a un cliente y se solicita entregarle producto, si el cliente se encuentra disponible se llenara el formulario de entrega y se actualiza el estado de la tarea como **Completada**. Si el cliente no se encuentra disponible la marcaremos como **Fallo** e indicaremos la razon por la cual fue la mision fallo. Si surgio una visita a un cliente con mayor urgencia marcaremos la mision como **Cancelada** e indicaremos la razon de su cancelacion. 
 
 
@@ -38,7 +38,7 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTIxMTA4Nyw2NjYzMDQwOTUsLTUzND
-M4NDMyNCwxNzAyMzMxOTYsLTQ5MzUxNjIxNywtMTE3MDU1MTA2
-OF19
+eyJoaXN0b3J5IjpbNTYzMTg3Nzk5LDY2NjMwNDA5NSwtNTM0Mz
+g0MzI0LDE3MDIzMzE5NiwtNDkzNTE2MjE3LC0xMTcwNTUxMDY4
+XX0=
 -->
