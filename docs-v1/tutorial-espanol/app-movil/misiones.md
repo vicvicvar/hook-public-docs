@@ -11,7 +11,10 @@ Al final de cada mision, se muestran las siguientes opciones para actualizar el 
  - **Cancelada**, Son misiones las cuales nos fueron indicadas abandonar y/o proceder alguna otra actividad mas importante.
  - **Fallo**, Las misiones marcadas con esta propiedad no pudieron ser terminadas por razones de fuerza mayor. Como por ejemplo un accidente, persona visitada no se encontraba, medio de transporte con desperfectos, etc. 
 
-El estado de misiones **Activas** es util cuando 
+El estado de misiones **Activas** es util cuando :
+
+ 1. Se desea registar el tiempo de duracion de una mision
+ 2. La mision no puede comple
 
 ```mermaid
 sequenceDiagram
@@ -31,6 +34,6 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDExMjI5NDMsMTcwMjMzMTk2LC00OT
-M1MTYyMTcsLTExNzA1NTEwNjhdfQ==
+eyJoaXN0b3J5IjpbMTI3MTA1Mzc5MiwxNzAyMzMxOTYsLTQ5Mz
+UxNjIxNywtMTE3MDU1MTA2OF19
 -->
