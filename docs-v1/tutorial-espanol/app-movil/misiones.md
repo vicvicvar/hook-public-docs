@@ -16,11 +16,12 @@ El estado de misiones **Activas** es util cuando :
  1. Se desea registar el tiempo de duracion de una mision
  2. La mision no puede completarse inmediatamente en un lugar y hora en especifico sino requiere moverse de lugar y/o esperar algun evento. 
 
-Un flujo demo es el siguiente: 
+Un flujo demo entre el cambio entre **Activas** a **Completadas**  es el siguiente: 
 
 ```mermaid
 sequenceDiagram
-Activa->> Activa: Completo instrucciones de mision
+Activa->> Activa: He descargado mision y empiezo a trabajar en ella
+Activa->> Activa: Desde el APP Optacheck marco l
 Activa->> Activa: Completo formularios con fotos, texto, notas, etc
 Activa->> Activa: Al ser activa, se registra el tiempo que demoro la mision
 Activa-->> Completada: Formulario se ha completado y mision ha sido completada
@@ -36,6 +37,6 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDM4NDMyNCwxNzAyMzMxOTYsLTQ5Mz
-UxNjIxNywtMTE3MDU1MTA2OF19
+eyJoaXN0b3J5IjpbLTE0MTc4OTQ5MTMsLTUzNDM4NDMyNCwxNz
+AyMzMxOTYsLTQ5MzUxNjIxNywtMTE3MDU1MTA2OF19
 -->
