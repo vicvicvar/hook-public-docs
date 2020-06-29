@@ -6,9 +6,9 @@ Las misiones pueden contar con parametros obligatorios los cuales se mostratan c
 
 Al final de cada mision, se muestran las siguientes opciones para actualizar el estado
 
- - **Activa**, 
- - **Completada**,
- - **Cancelada**,
+ - **Activa**, Las misiones son marcadas como activas cuando la tarea tiene una duracion la cual deseamos medir y/o no es terminada inmediatamente
+ - **Completada**, Las misiones que han llenado los formularios 
+ - **Cancelada**, 
  - **Fallo**,
 
 Explora las Misiones desde el APP en el siguiente video! 
@@ -19,5 +19,5 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3OTMzMTg3LC0xMTcwNTUxMDY4XX0=
+eyJoaXN0b3J5IjpbNjUzNTI5MzgwLC0xMTcwNTUxMDY4XX0=
 -->
