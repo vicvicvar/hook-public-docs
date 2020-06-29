@@ -14,7 +14,9 @@ Al final de cada mision, se muestran las siguientes opciones para actualizar el 
 El estado de misiones **Activas** es util cuando :
 
  1. Se desea registar el tiempo de duracion de una mision
- 2. La mision no puede comple
+ 2. La mision no puede completarse inmediatamente en un lugar y hora en especifico sino requiere moverse de lugar y/o esperar algun evento. 
+
+Un flujo demo es el siguiente: 
 
 ```mermaid
 sequenceDiagram
@@ -34,6 +36,6 @@ Explora las Misiones desde el APP en el siguiente video!
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTA1Mzc5MiwxNzAyMzMxOTYsLTQ5Mz
+eyJoaXN0b3J5IjpbLTUzNDM4NDMyNCwxNzAyMzMxOTYsLTQ5Mz
 UxNjIxNywtMTE3MDU1MTA2OF19
 -->
