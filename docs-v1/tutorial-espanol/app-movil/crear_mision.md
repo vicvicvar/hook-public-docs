@@ -10,7 +10,8 @@ Explora la interfaz del APP en el siguiente video!
 
 > Siguiente [Notas y Visitas](/v1/app-movil/notas_visitas.html)
 
-> O regresa a [Misiones](/v1/app-movil/misiones.html)
+> O regresa a [Misiones](/v1/app-movil/crear_mision.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE5NDYyMzNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjkxNjMwMTEsLTE4MjE5NDYyMzNdfQ
+==
 -->
