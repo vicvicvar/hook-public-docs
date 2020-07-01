@@ -13,10 +13,10 @@ Elije entre las siguientes opciones (recomendado segun el orden) para iniciar un
 
 3. [Avanzado](/v1/web-app/avanzado/introduccion.html), En el tutorial  **Avanzado**, funcionalidades dedicadas como carga masiva de misiones y reporteria son demostradas
 
-4. O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir la documentacion **Web-App** o nuestra **App-movil**
+ O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir la documentacion **Web-App** o nuestra **App-movil**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDU1NzksMTU4MDg1NTg2NSwyNTg4Nj
-kzNjIsLTk1NzQ0MTg3OCwtMTY4ODMzMTkwLDEzNTA4MjM4Mjcs
-LTE1MTgzOTQyMzBdfQ==
+eyJoaXN0b3J5IjpbLTQyMjYwODY4NywxNTgwODU1ODY1LDI1OD
+g2OTM2MiwtOTU3NDQxODc4LC0xNjg4MzMxOTAsMTM1MDgyMzgy
+NywtMTUxODM5NDIzMF19
 -->
