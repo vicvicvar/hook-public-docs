@@ -1,8 +1,8 @@
 # Misiones
 
-Las Misiones son las tareas que nos fueron asignadas las cuales incluyen instrucciones como agregar fotos, ubicacion GPS, ingreso de texto, entre otras. 
+Las Misiones son las tareas que nos fueron asignadas las cuales incluyen instrucciones adicionales como agregar fotos, ubicacion GPS, ingreso de texto, entre otras. 
 
-Las misiones pueden contar con parametros obligatorios los cuales se mostraran con un asterisco rojo
+Las misiones pueden contar con parametros obligatorios los cuales se mostrartan con un asterisco rojo
 
 Al final de cada mision, se muestran las siguientes opciones para actualizar el estado
 
@@ -30,15 +30,19 @@ Activa-->> Completada: Formulario se ha completado y mision ha sido completada
 Una tarea puede ser marcada como **Completada**, **Fallo** o **Cancelada** inmediatamente. Como por ejemplo al visitar a un cliente y se solicita entregarle producto, si el cliente se encuentra disponible se llenara el formulario de entrega y se actualiza el estado de la tarea como **Completada**. Si el cliente no se encuentra disponible la marcaremos como **Fallo** e indicaremos la razon por la cual fue la mision fallo. Si surgio una visita a un cliente con mayor urgencia marcaremos la mision como **Cancelada** e indicaremos la razon de su cancelacion. 
 
 
+ - **Completada**,
+ - **Cancelada**,
+ - **Fallo**,
 
 Explora las Misiones desde el APP en el siguiente video! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLTF__ua5go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 > Siguiente [Crear una Mision](/v1/app-movil/crear_mision.html)
 
 > O regresa a [Sincronizacion](/v1/app-movil/sync.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMTg3Nzk5LDY2NjMwNDA5NSwtNTM0Mz
-g0MzI0LDE3MDIzMzE5NiwtNDkzNTE2MjE3LC0xMTcwNTUxMDY4
-XX0=
+eyJoaXN0b3J5IjpbMTk2OTA4NjkxMiw1NjMxODc3OTksNjY2Mz
+A0MDk1LC01MzQzODQzMjQsMTcwMjMzMTk2LC00OTM1MTYyMTcs
+LTExNzA1NTEwNjhdfQ==
 -->
