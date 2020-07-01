@@ -1,6 +1,6 @@
 # Tutorial Control, Web-APP
 
-El tutorial básico incluye a introducción a la herramienta y las funcionalidades mas importantes. 
+Utiliza la plataforma Optacheck para un control mas riguroso a las actividades y movimientos de tu persona
 
 Explora la herramienta con las funcionalidades básicas:
 
@@ -10,5 +10,5 @@ Explora la herramienta con las funcionalidades básicas:
 
 > O regresa al [Inicio](/v1/web-app/) para elegir entre los tutoriales **Basico**,  o  **Avanzado**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjExNDg2MzNdfQ==
+eyJoaXN0b3J5IjpbLTU4NDE0MzQ4NSwtMTA2MTE0ODYzM119
 -->
