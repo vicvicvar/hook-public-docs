@@ -11,8 +11,8 @@ Explora la herramienta con las funcionalidades básicas:
 5. [Misiones](/v1/web-app/basico/misiones.html)
 6. [Notas](/v1/web-app/basico/notas.html)
 
-> O regresa al [Inicio](https://docs.optacheck.com/v1/) para elegir entre **Web-App** o nuestra **App-movil**
+> O regresa al [Inicio](/v1/web-app/) para elegir entre el tutorial **Control** o nuestra **Avanzado**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTIzNDk3NywyMDAxNDIzMTUyLDEyMz
-gzMjY1OThdfQ==
+eyJoaXN0b3J5IjpbLTIzNjc3ODg3OCwxNzM5MjM0OTc3LDIwMD
+E0MjMxNTIsMTIzODMyNjU5OF19
 -->
